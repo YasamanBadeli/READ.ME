@@ -7,4 +7,4 @@ Hi there! 👋 I'm Yasaman Badeli, a curious mind with a passion for blending sc
 
 ---
 # Let’s Connect! 💬
-Feel free to reach out if you’d like to collaborate, share ideas, or chat about science and technology over a cup of coffee. ☕ Together, we can make an impact! 🌍
+Feel free to reach out if you’d like to collaborate, share ideas, or chat about science and technology🖥️💬👩‍💻. Together, we can make an impact! 🌍
