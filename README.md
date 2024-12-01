@@ -9,10 +9,15 @@ Hi there! 👋 I'm Yasaman Badeli, a curious mind with a passion for blending sc
 # 🔧 Technical Skills
 
 Programming Languages: Python, SQL, JavaScript, HTML, CSS
+
 Machine Learning Frameworks: TensorFlow, scikit-learn
+
 Data Analysis Tools: Pandas, NumPy, Microsoft Excel
+
 Data Visualization Tools: Matplotlib, Plotly
+
 Relational Databases: MySQL, PostgreSQL, SQL Server
+
 Development Environments: JupyterLab, ItelliJ Idea
 
 ---
